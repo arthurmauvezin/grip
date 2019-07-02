@@ -1,6 +1,9 @@
 Grip -- GitHub Readme Instant Preview
 =====================================
 
+> This is a fork from [joeyespo/grip](https://github.com/joeyespo/grip) project without border and titles.
+> The goal is to get only a fast markdown renderer.
+
 [![Current version on PyPI](http://img.shields.io/pypi/v/grip.svg)][pypi]
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/joeyespo)
 
